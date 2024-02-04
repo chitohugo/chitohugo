@@ -6,10 +6,10 @@
 <div>
     <h3 align="left"> Professional Summary: </h3>
     <ul>
-        <li>🔭 I worked for <a href="https://www.hello.nubiz.app/">NubiZ </a></li>
+        <li> 🔭 I worked for <a href="https://www.hello.nubiz.app/">NubiZ </a></li>
         <li> 🌱 I’m currently learning <strong><em>Frameworks and Design patterns </em></strong></li>
         <li> 👯 I’m looking to collaborate on <strong><em>Python projects </em></strong></li>
-        <li> 📝 I regularly read articles on [https://medium.com/](https://medium.com/) </li>
+        <li> 📝 I regularly read articles on <a href="https://medium.com/">Medium </a></li>
         <li> 💬 Ask me about <strong><em> Python </em></strong> </li>
         <li> 📫 How to reach me: <strong><em>hugochito@gmail.com </em></strong> </li>
         <li> 📄 Know about my experiences in Linkedin: <a href="https://www.linkedin.com/in/hugo-gonzalez23/"> Hugo González </a></li>
