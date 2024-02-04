@@ -19,9 +19,9 @@
 <h3 align="left"> Work Experience: </h3>
 
 <div>
-  <h3>Full Stack Developer at <a href="https://autolab.com.co/">Autolab </a></h3>
-  <h4>January 2022 to June 2023 (1 year 6 months)</h4>
-  <h4>Location: Colombia </h4>
+  <h4>Full Stack Developer at <a href="https://autolab.com.co/">Autolab </a></h3>
+  <h5>January 2022 to June 2023 (1 year 6 months)</h4>
+  <h5>Location: Colombia </h4>
   <ul>
     <li>Full Stack Developer role encompassing frontend and backend development tasks.</li>
     <li>Utilized Ember.js for frontend development to create intuitive user interfaces.</li>
@@ -33,9 +33,9 @@
 </div>
 
 <div>
-  <h3>Backend Developer at <a href="https://www.tunubi.com/">Nubi </a></h3>
-  <h4>October 2020 to December 2021 (1 year 3 months)</h4>
-  <h4>Location: Argentina </h4>
+  <h4>Backend Developer at <a href="https://www.tunubi.com/">Nubi </a></h3>
+  <h5>October 2020 to December 2021 (1 year 3 months)</h4>
+  <h5>Location: Argentina </h4>
   <ul>
     <li>Backend Python Developer role focused on Flask or FastAPI frameworks.</li>
     <li>Responsible for developing Python solutions to address various requirements.</li>
@@ -47,9 +47,9 @@
 </div>
 
 <div>
-    <h3>Automation Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
-    <h4>May 2020 to August 2020 (4 months)</h4>
-    <h4>Location: Argentina </h4>
+    <h4>Automation Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
+    <h5>May 2020 to August 2020 (4 months)</h4>
+    <h5>Location: Argentina </h4>
     <ul>
         <li>Specialized developer in automating processes and tasks using various technologies and tools.</li>
         <li>Experience in designing, developing, and implementing scripts and automation tools to optimize workflows.</li>
@@ -59,9 +59,9 @@
 </div>
 
 <div>
-    <h3>Backend Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
-    <h4>October 2019 to May 2020 (8 months)</h4>
-    <h4>Location: Argentina </h4>
+    <h4>Backend Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
+    <h5>October 2019 to May 2020 (8 months)</h4>
+    <h5>Location: Argentina </h4>
     <ul>
         <li>Python Developer experienced in creating applications and solutions using the Python programming language.</li>
         <li>Responsible for designing, developing, and maintaining applications and systems using frameworks like Flask, Django, or FastAPI.</li>
