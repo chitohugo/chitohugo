@@ -19,7 +19,7 @@
 <h3 align="left"> Work Experience: </h3>
 
 <div>
-  <h4>Backend Developer at <a href="https://www.hello.nubiz.app/">NubiZ </a></h4>
+  <h4>Python Backend Developer at <a href="https://www.hello.nubiz.app/">NubiZ </a></h4>
   <h5>Sep 2023 to currently (4 months)</h5>
   <h5>Location: Argentina </h5>
   <ul>
@@ -47,7 +47,7 @@
 </div>
 
 <div>
-  <h4>Backend Developer at <a href="https://www.tunubi.com/">Nubi </a></h4>
+  <h4>Python Backend Developer at <a href="https://www.tunubi.com/">Nubi </a></h4>
   <h5>October 2020 to December 2021 (1 year 3 months)</h5>
   <h5>Location: Argentina </h5>
   <ul>
@@ -73,7 +73,7 @@
 </div>
 
 <div>
-    <h4>Backend Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h4>
+    <h4>Python Backend Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h4>
     <h5>October 2019 to May 2020 (8 months)</h5>
     <h5>Location: Argentina </h5>
     <ul>
