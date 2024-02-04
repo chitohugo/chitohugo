@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitohugo&label=Profile%20views&color=0e75b6&style=flat" alt="chitohugo" /> </p>
 
-- 🔭 I worked for [Autolab](https://autolab.com.co/)
+- 🔭 I worked for [NubiZ](https://www.hello.nubiz.app/)
 
 - 🌱 I’m currently learning **Frameworks and Design patterns**
 
