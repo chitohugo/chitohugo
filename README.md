@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+- 📝 I regularly read articles on [https://medium.com/](https://medium.com/)
 
 - 💬 Ask me about **Python**
 
