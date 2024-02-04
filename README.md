@@ -19,9 +19,9 @@
 <h3 align="left"> Work Experience: </h3>
 
 <div>
-  <h4>Full Stack Developer at <a href="https://autolab.com.co/">Autolab </a></h3>
-  <h5>January 2022 to June 2023 (1 year 6 months)</h4>
-  <h5>Location: Colombia </h4>
+  <h3>Full Stack Developer at <a href="https://autolab.com.co/">Autolab </a></h3>
+  <h4>January 2022 to June 2023 (1 year 6 months)</h4>
+  <h4>Location: Colombia </h4>
   <ul>
     <li>Full Stack Developer role encompassing frontend and backend development tasks.</li>
     <li>Utilized Ember.js for frontend development to create intuitive user interfaces.</li>
@@ -33,21 +33,23 @@
 </div>
 
 <div>
-  <h4>Backend Developer at <a href="https://www.tunubi.com/">Nubi </a></h3>
-  <h5>October 2020 to December 2021 (1 year 3 months)</h4>
-  <h5>Location: Argentina </h4>
+  <h3>Backend Developer at <a href="https://www.tunubi.com/">Nubi </a></h3>
+  <h4>October 2020 to December 2021 (1 year 3 months)</h4>
+  <h4>Location: Argentina </h4>
   <ul>
     <li>Backend Python Developer role focused on Flask or FastAPI frameworks.</li>
     <li>Responsible for developing Python solutions to address various requirements.</li>
     <li>Engaged in pair programming sessions with team members to refactor modules and enhance code quality.</li>
     <li>Implemented connections to external APIs and consumed their services to integrate with our systems.</li>
+    <li>Developed unit and integration tests to ensure code stability and quality.</li>
+    <li>Debugged errors and troubleshooted issues to maintain smooth operation of applications.</li>
   </ul>
 </div>
 
 <div>
-    <h4>Automation Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
-    <h5>May 2020 to August 2020 (4 months)</h4>
-    <h5>Location: Argentina </h4>
+    <h3>Automation Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
+    <h4>May 2020 to August 2020 (4 months)</h4>
+    <h4>Location: Argentina </h4>
     <ul>
         <li>Specialized developer in automating processes and tasks using various technologies and tools.</li>
         <li>Experience in designing, developing, and implementing scripts and automation tools to optimize workflows.</li>
@@ -57,16 +59,32 @@
 </div>
 
 <div>
-    <h4>Backend Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
-    <h5>October 2019 to May 2020 (8 months)</h4>
-    <h5>Location: Argentina </h4>
+    <h3>Backend Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
+    <h4>October 2019 to May 2020 (8 months)</h4>
+    <h4>Location: Argentina </h4>
     <ul>
         <li>Python Developer experienced in creating applications and solutions using the Python programming language.</li>
         <li>Responsible for designing, developing, and maintaining applications and systems using frameworks like Flask, Django, or FastAPI.</li>
         <li>Experience in implementing business logic, database integration, and creating RESTful APIs.</li>
         <li>Ability to work in a team, collaborate on solution design, and efficiently solve problems.</li>
+        <li>Developed unit and integration tests to ensure code stability and quality.</li>
     </ul>
 </div>
+    <h4>Python Backend Developer at <a href="https://www.shockdav.com/">Shockdav</a></h4>
+    <h5>June 2018 - October 2019 (1 year 5 months)</h5>
+    <h5>Location: Canada</h5>
+    <ul>
+        <li>Responsible for designing, developing, and maintaining applications using the Python language.</li>
+        <li>Collaborated in designing and implementing efficient and scalable software architectures.</li>
+        <li>Implemented business logic and data access layers using technologies like SQLAlchemy for integration with relational databases.</li>
+        <li>Designed and developed RESTful APIs to facilitate communication between the frontend and backend of applications.</li>
+        <li>Implemented endpoints and managed HTTP requests using frameworks like Flask or FastAPI.</li>
+        <li>Identified and resolved performance bottlenecks in applications by optimizing database queries and implementing caching techniques.</li>
+        <li>Developed unit and integration tests to ensure code stability and quality.</li>
+        <li>Debugged errors and troubleshooted issues to maintain smooth operation of applications.</li>
+    </ul>
+    
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
