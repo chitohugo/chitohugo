@@ -19,23 +19,9 @@
 <h3 align="left"> Work Experience: </h3>
 
 <div>
-  <h4>Full Stack Developer at <a href="https://autolab.com.co/">Autolab </a></h3>
-  <h5>January 2022 to June 2023 (1 year 6 months)</h4>
-  <h5>Location: Colombia </h4>
-  <ul>
-    <li>Full Stack Developer role encompassing frontend and backend development tasks.</li>
-    <li>Utilized Ember.js for frontend development to create intuitive user interfaces.</li>
-    <li>Create microservices and data models</li>
-    <li>Implemented robust server-side solutions using Python with Flask.</li>
-    <li>Provided mentorship and support to junior developers to foster skill development.</li>
-    <li>Collaborated closely with the team to identify areas for improvement and propose innovative solutions.</li>
-  </ul>
-</div>
-
-<div>
-  <h4>Backend Developer at <a href="https://www.tunubi.com/">Nubi </a></h3>
-  <h5>October 2020 to December 2021 (1 year 3 months)</h4>
-  <h5>Location: Argentina </h4>
+  <h4>Backend Developer at <a href="https://www.hello.nubiz.app/">NubiZ </a></h4>
+  <h5>Sep 2023 to currently (4 months)</h5>
+  <h5>Location: Argentina </h5>
   <ul>
     <li>Backend Python Developer role focused on Flask or FastAPI frameworks.</li>
     <li>Responsible for developing Python solutions to address various requirements.</li>
@@ -47,9 +33,37 @@
 </div>
 
 <div>
-    <h4>Automation Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
-    <h5>May 2020 to August 2020 (4 months)</h4>
-    <h5>Location: Argentina </h4>
+  <h4>Full Stack Developer at <a href="https://autolab.com.co/">Autolab </a></h4>
+  <h5>January 2022 to June 2023 (1 year 6 months)</h5>
+  <h5>Location: Colombia </h5>
+  <ul>
+    <li>Full Stack Developer role encompassing frontend and backend development tasks.</li>
+    <li>Utilized Ember.js for frontend development to create intuitive user interfaces.</li>
+    <li>Create microservices and data models</li>
+    <li>Implemented robust server-side solutions using Python with Flask.</li>
+    <li>Provided mentorship and support to junior developers to foster skill development.</li>
+    <li>Collaborated closely with the team to identify areas for improvement and propose innovative solutions.</li>
+  </ul>
+</div>
+
+<div>
+  <h4>Backend Developer at <a href="https://www.tunubi.com/">Nubi </a></h4>
+  <h5>October 2020 to December 2021 (1 year 3 months)</h5>
+  <h5>Location: Argentina </h5>
+  <ul>
+    <li>Backend Python Developer role focused on Flask or FastAPI frameworks.</li>
+    <li>Responsible for developing Python solutions to address various requirements.</li>
+    <li>Engaged in pair programming sessions with team members to refactor modules and enhance code quality.</li>
+    <li>Implemented connections to external APIs and consumed their services to integrate with our systems.</li>
+    <li>Developed unit and integration tests to ensure code stability and quality.</li>
+    <li>Debugged errors and troubleshooted issues to maintain smooth operation of applications.</li>
+  </ul>
+</div>
+
+<div>
+    <h4>Automation Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h4>
+    <h5>May 2020 to August 2020 (4 months)</h5>
+    <h5>Location: Argentina </h5>
     <ul>
         <li>Specialized developer in automating processes and tasks using various technologies and tools.</li>
         <li>Experience in designing, developing, and implementing scripts and automation tools to optimize workflows.</li>
@@ -59,9 +73,9 @@
 </div>
 
 <div>
-    <h4>Backend Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h3>
-    <h5>October 2019 to May 2020 (8 months)</h4>
-    <h5>Location: Argentina </h4>
+    <h4>Backend Developer at <a href="https://coderio.co/es/inicio/"> Coderio</a> </h4>
+    <h5>October 2019 to May 2020 (8 months)</h5>
+    <h5>Location: Argentina </h5>
     <ul>
         <li>Python Developer experienced in creating applications and solutions using the Python programming language.</li>
         <li>Responsible for designing, developing, and maintaining applications and systems using frameworks like Flask, Django, or FastAPI.</li>
@@ -70,6 +84,7 @@
         <li>Developed unit and integration tests to ensure code stability and quality.</li>
     </ul>
 </div>
+<div>
     <h4>Python Backend Developer at <a href="https://www.shockdav.com/">Shockdav</a></h4>
     <h5>June 2018 - October 2019 (1 year 5 months)</h5>
     <h5>Location: Canada</h5>
@@ -83,6 +98,7 @@
         <li>Developed unit and integration tests to ensure code stability and quality.</li>
         <li>Debugged errors and troubleshooted issues to maintain smooth operation of applications.</li>
     </ul>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
